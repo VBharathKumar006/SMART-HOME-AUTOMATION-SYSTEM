@@ -8,7 +8,7 @@ The status of each device is displayed on a **16x2 LCD**.
 
 ---
 
-## 🚀 Features
+##  Features
 - Control devices using **serial commands (UART)**.
 - Displays device status (`FAN ON`, `LIGHT OFF`, etc.) on LCD.
 - Shows **WELCOME** message at startup.
@@ -16,7 +16,7 @@ The status of each device is displayed on a **16x2 LCD**.
 
 ---
 
-## 🛠 Hardware Requirements
+##  Hardware Requirements
 - AT89C51 Microcontroller
 - 16x2 LCD Display
 - 4 Loads (Fan, Light, TV, Machine)
@@ -26,7 +26,7 @@ The status of each device is displayed on a **16x2 LCD**.
 
 ---
 
-## 🔗 UART Command Table
+##  UART Command Table
 | Command | Action           |
 |---------|------------------|
 | `1`     | Fan ON          |
